@@ -2,7 +2,7 @@
 
 
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication.
+> Full stack MERN contact keeper with React hooks, context & JWT authentication.
 
 
 
